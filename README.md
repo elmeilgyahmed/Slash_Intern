@@ -3,7 +3,9 @@ Building a Product Image Classifier
 
 
 Data Collection:
+
         ◦ Snapshots were taken from different categories in the Slash app.
+        
         ◦ Images were split into 4 categories:
             ▪ 0 => Nutrition
             ▪ 1 => Fashion
