@@ -20,4 +20,4 @@ Data Collection:
         ◦ The trained model was saved for future inference.
     • Inference on Different Images:
         ◦ Inference was performed on four different images, and the results are as follows: 
-![Alt Text](predictions_plot)
+![Alt Text](predictions_plot.png)
