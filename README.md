@@ -1,4 +1,4 @@
-# Slash_Intern
+# Slash
 Building a Product Image Classifier
 
 
